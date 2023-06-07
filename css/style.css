@@ -29,6 +29,10 @@
   align-items: center;
   gap: 4.8rem;
 }
+.link-logo{
+  text-decoration-line: none;
+  color: rgba(0, 0, 0, 1); 
+}
 
 .main-nav-link:link,
 .main-nav-link:visited {
