@@ -74,7 +74,10 @@ html {
   /* Does NOT work on Safari */
   /* scroll-behavior: smooth; */
 }
-
+img spiceverse logo{
+    height: 50px;
+    width: auto!
+   }
 body {
   font-family: "Rubik", sans-serif;
   line-height: 1;
